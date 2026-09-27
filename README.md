@@ -1,7 +1,5 @@
 # NeetCode 150
 
-Solutions and notes for the NeetCode 150 coding interview problem set.
+Python solutions for coding interview problems from the NeetCode 150 list.
 
-## About
-
-This repository is a place to work through the NeetCode 150 problems. Solutions are organized in the repository by the existing file and folder structure.
+The repository currently includes a hash-map solution for **Two Sum** in `two_sum.py`. More solutions can be added using the same one-file-per-problem structure.
